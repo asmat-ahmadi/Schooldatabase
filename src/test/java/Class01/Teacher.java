@@ -5,6 +5,7 @@ public class Teacher {
         String name = "Habib";
         String lastname = "Ahmadi";
         int salary = 1000;
+        String address = "9898 careaey cir virginia";
     }
 
 
