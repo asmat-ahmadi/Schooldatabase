@@ -5,5 +5,7 @@ public class Students {
         String name ="ajmal";
         String lastname = "omid";
         String Class = "firstgrade";
+        String  contacts ="88788878";
+        int age = 9;
     }
 }
